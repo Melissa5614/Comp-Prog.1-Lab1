@@ -6,10 +6,7 @@
 # Purpose: Use arithmetic in python.
 # Usage: python3 lab1b.py
 
-# TO-DO 1:
-#	Create a variable called "num1", take its value from user.
-#	Create another variable called "num2" and take its value from user. 
-# Convert the values to integers using int() function
+
 num1=input('please enter a number for the variable num1:')
 num2=input('please enter a number for the variable num2:')
 num1=int(num1)
